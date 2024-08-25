@@ -4,15 +4,16 @@ InactiveTextColor=217,215,214,255
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 Animation=200
+Shadow=true
 
 [Layout]
 BorderLeft=0
 BorderRight=0
 BorderBottom=0
-TitleEdgeTop=0
+TitleEdgeTop=1
 TitleEdgeBottom=1
-TitleEdgeLeft=0
-TitleEdgeRight=0
+TitleEdgeLeft=4
+TitleEdgeRight=4
 TitleBorderLeft=0
 TitleBorderRight=0
 TitleHeight=20
@@ -20,15 +21,14 @@ ButtonWidth=34
 ButtonHeight=24
 ButtonSpacing=0
 ButtonMarginTop=0
+ButtonMarginTop
 ExplicitButtonSpacer=10
-PaddingTop=0
-PaddingBottom=2
-PaddingRight=2
-PaddingLeft=2
+PaddingTop=10
+PaddingBottom=13
+PaddingRight=13
+PaddingLeft=13
 MaximizedBorderTop=0
-BorderLeft=0
-BorderRight=0
-Shadow=true
+
 
 [Windows]
 BorderlessMaximizedWindows=false
